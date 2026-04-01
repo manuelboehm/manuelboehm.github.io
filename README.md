@@ -1,2 +1,2 @@
-# manboehm.github.io/website
+# manuelboehm.github.io
 My Personal Website
